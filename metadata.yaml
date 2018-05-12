@@ -1,0 +1,27 @@
+_repo: Hallimajan-nuoretKuvaus-nykyajalta_45062
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anttila, Selma
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '43058'
+    url: http://www.gutenberg.org/2009/agents/43058
+    wikipedia: http://fi.wikipedia.org/wiki/Selma_Anttila
+description: ''
+gutenberg_issued: '2014-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45062'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction'
+- !lcc 'PH'
+title: 'Hallimajan nuoret: Kuvaus nykyajalta'
+url: http://www.gutenberg.org/ebooks/45062
