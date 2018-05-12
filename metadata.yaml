@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43058
     wikipedia: http://fi.wikipedia.org/wiki/Selma_Anttila
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45062#Hallimajan-nuoretKuvaus-nykyajalta
 gutenberg_issued: '2014-03-06'
 gutenberg_type: Text
 identifiers:
